@@ -17,5 +17,6 @@ Suponiendo que tenga el juego de manera legal, puedes ir a "Ver archivos locales
 [![20240105153103-1.jpg](https://i.postimg.cc/N02cdpZs/20240105153103-1.jpg)](https://postimg.cc/sBzqX9Vq)
 
 # Reportes
-Si necesita hacer algún reporte sobre algún fallo en la traducción o hacer alguna sugerencia, puede hacerlo mediante el correo: ayozetorres@yahoo.com
+Si necesita hacer algún reporte sobre algún fallo o aportar alguna sugerencia, puede hacerlo mediante el correo: ayozetorres@yahoo.com
+
 Si lo considera oportuno, tambien puede hacer una donación via PayPal: https://www.paypal.me/ayozetorres
