@@ -4,9 +4,11 @@ Traducción al español (canario) creada para el videojuego "The Forest" en su v
 PD: No todas las palabras están modificadas, se realizarán cambios a medida que pase el tiempo.
 
 # Instalación
-El fichero "Español (Canario).json" debe colocarse en la carpeta "lang" en la carpeta de instalación del juego.
+El fichero "Español (Canario).json" del fichero .rar debe colocarse en la carpeta "lang" en la carpeta de instalación del juego.
 
 Suponiendo que tenga el juego de manera legal, puedes ir a "Ver archivos locales" haciendo click derecho en el juego desde la biblioteca de Steam.
+
+(https://github.com/AyozeTorres/theforestcanariantranslate/releases)
 
 [![Captura-de-pantalla-2024-01-05-145546.png](https://i.postimg.cc/d0Rj8KnG/Captura-de-pantalla-2024-01-05-145546.png)](https://postimg.cc/XZJ5bmRv)
 (En caso de que la carpeta no aparezca, pruebe abriendo el juego y cambiando el idioma, (a Español (Spanish) por ejemplo) luego debería aparecer.)
